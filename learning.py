@@ -6,7 +6,9 @@ learning.py
 
 A Python 3 tutorial from http://www.liaoxuefeng.com
 
-Usage:modify
+
+Usage:
+
 
 python3 learning.py
 '''
