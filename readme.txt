@@ -10,3 +10,4 @@ Creating a new branch is quick and simple.
 Branch manager
 creating a new branch is quick AND simple.
 git can merge branches.
+git checkout dev
